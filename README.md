@@ -1,0 +1,1 @@
+Esta es una animación rápida únicamente utlizando css, es una animación de loading
